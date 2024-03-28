@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-height: 400px;
+}
+
+li.one {
+    color: rgb(0, 4, 245);
+}
+
+.banner {
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
